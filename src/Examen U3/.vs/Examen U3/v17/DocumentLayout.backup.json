@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|c:\\users\\migue\\source\\repos\\projects\\examen u3\\examen u3\\textodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|solutionrelative:examen u3\\textodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|c:\\users\\migue\\source\\repos\\projects\\examen u3\\examen u3\\coloradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|solutionrelative:examen u3\\coloradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|c:\\users\\migue\\source\\repos\\projects\\examen u3\\examen u3\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|solutionrelative:examen u3\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|c:\\users\\migue\\source\\repos\\projects\\examen u3\\examen u3\\reestablecer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|solutionrelative:examen u3\\reestablecer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|c:\\users\\migue\\source\\repos\\projects\\examen u3\\examen u3\\subrayada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|solutionrelative:examen u3\\subrayada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|c:\\users\\migue\\source\\repos\\projects\\examen u3\\examen u3\\cursiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|solutionrelative:examen u3\\cursiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|c:\\users\\migue\\source\\repos\\projects\\examen u3\\examen u3\\negrita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AA4246-F7BA-45AE-90A8-C0444CE699A3}|Examen U3\\Examen U3.csproj|solutionrelative:examen u3\\negrita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextoDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\TextoDecorator.cs",
+              "RelativeDocumentMoniker": "Examen U3\\TextoDecorator.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\TextoDecorator.cs",
+              "RelativeToolTip": "Examen U3\\TextoDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:10:55.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Negrita.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Negrita.cs",
+              "RelativeDocumentMoniker": "Examen U3\\Negrita.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Negrita.cs",
+              "RelativeToolTip": "Examen U3\\Negrita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:32:52.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cursiva.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Cursiva.cs",
+              "RelativeDocumentMoniker": "Examen U3\\Cursiva.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Cursiva.cs",
+              "RelativeToolTip": "Examen U3\\Cursiva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:13:23.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subrayada.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Subrayada.cs",
+              "RelativeDocumentMoniker": "Examen U3\\Subrayada.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Subrayada.cs",
+              "RelativeToolTip": "Examen U3\\Subrayada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:14:09.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reestablecer.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Reestablecer.cs",
+              "RelativeDocumentMoniker": "Examen U3\\Reestablecer.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Reestablecer.cs",
+              "RelativeToolTip": "Examen U3\\Reestablecer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:29:45.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\ColorAdapter.cs",
+              "RelativeDocumentMoniker": "Examen U3\\ColorAdapter.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\ColorAdapter.cs",
+              "RelativeToolTip": "Examen U3\\ColorAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:33:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Color.cs",
+              "RelativeDocumentMoniker": "Examen U3\\Color.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\Examen U3\\Examen U3\\Color.cs",
+              "RelativeToolTip": "Examen U3\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:31:54.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
